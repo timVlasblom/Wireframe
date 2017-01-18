@@ -1,0 +1,185 @@
+
+body{
+    margin : 0%;
+}
+
+li{
+    list-style-type: none;
+    display: inline;
+}
+
+span{
+    font-size: 70%;
+}
+
+.mainnav{
+    float: left;
+    width: 100%;
+    text-align : center;
+    background-color: #FF0000;
+}
+
+.intro{
+    float: left;
+    width: 100%;
+    background-color: #800000;
+}
+h1{
+    margin-top: 10%;
+    font-variant-caps: all-petite-caps;
+    font-size: 300%;
+}
+
+.foto{
+    width: 20%;
+    float: left;
+    margin: 2.5%;
+    min-width: 100px;
+}
+
+.about-me{
+    text-align: center;
+    width: 100%;
+    float: left;   
+}
+
+.subheading{
+    float: left;
+    width: 100%;
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+    text-align: center;
+    background-color: #800000;
+}
+
+.skills{
+    float: left;
+    width: 100%;
+    text-align: center;
+}
+
+.empty-skill { 
+    float: left;
+    margin-left: 7%;
+    margin-top: 1%;
+    width: 40%; 
+    height: 10px; 
+    background: #FF0000; 
+}
+
+.full-skill { 
+    float: left;
+    margin-right: 5%;
+    height: 10px; 
+    background: #32cd32; 
+}
+
+.ten{ 
+    width: 10%; 
+}
+
+.twenty{ 
+    width: 20%; 
+}
+
+.thirty{ 
+    width: 30%; 
+}
+
+.forty{ 
+    width: 40%; 
+}
+
+.fifty{ 
+    width: 50%; 
+}
+
+.sixty{ 
+    width: 60%; 
+}
+
+.zeventy{ 
+    width: 70%; 
+}
+
+.eightty{ 
+    width: 80%; 
+}
+
+.ninety{ 
+    width: 90%; 
+}
+
+.hundred{ 
+    width: 100%; 
+}
+
+.experience{
+    float: left;
+    margin-left: 26%;
+    width: 7.5%;
+}
+
+.lenny{
+    float: left;
+    margin: 0% 3% 0% 3%;
+    width: 26%;
+    min-width: 100px;
+}
+
+.photos{
+    height: 14%;
+}
+
+photolist{
+    
+}
+
+.contact{
+    width: 100%;
+    float: left;
+    text-align: center;
+}
+
+.form{
+    width: 70%;
+    margin: 0% 15% 0% 15%;
+   
+}
+.form textarea,input{
+    margin-left: 25%;
+     display: block;
+     width: 50%;
+    
+}
+
+.submit{
+   text-align: center;
+}
+
+footer{
+    float: left;
+    width: 100%;
+    text-align: center;
+    background-color: #800000;
+}
+
+media-list{
+    
+}
+
+.square { 
+    min-width: 35px;
+    float: left;
+    margin: .5%;
+    width: 4%; 
+    height: 4%; 
+}
+
+
+/*
+    - blijf consistent in gebruik van pixels en procenten
+    - in je html: gebruik dubbele quotes (heb ik bij je form aangepast nu)
+    - de spans mochten op 1 regel
+    - verder netjes!
+*/

@@ -1,0 +1,105 @@
+
+#vliegtuig{
+    margin: 50px;
+    width: 250px;
+    height: 150px;
+    float: left; 
+}
+
+#kop{
+   float: left; 
+   margin-top: 100px;
+}
+
+#hallo{
+    height: 250px;
+    width: 100%;
+    background-color: red;
+}
+
+#sectieTwee{
+    height: 150px;
+    text-align: center;
+}
+
+#sectieDrie{
+    height: 100px;
+    float: left;
+    width: 100%;
+    background-color: red;
+    text-align: center;
+}
+
+#sectieVier{
+    height: 200px;
+    text-align: center;
+}
+
+#sectieVijf{
+    height: 50px;
+    text-align: center;
+    background-color: red;
+}
+
+#afbeeldingenVijf{
+    float: left;
+    width: 33.33%;
+}
+
+#sectieZes{
+    height: 150px;
+    text-align: center;
+    background-color: red;
+}
+
+#sectieZeven{
+    float: left;
+    height: 500px;
+    width: 100%;
+    text-align: center;
+    background-color: red;
+}
+
+#text{
+   width: 40%;
+   height: 50px;
+}
+
+#rechthoek { 
+    float: left;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 10px;
+    width: 40%; 
+    height: 10px; 
+    background: red; 
+}
+
+#rood { 
+    float: left;
+    margin-left: 5%;
+    margin-top: 10px;
+    width: 27%; 
+    height: 10px; 
+    background: red; 
+}
+
+#blauw { 
+    float: left;
+    margin-right: 5%;
+    margin-top: 10px;
+    width: 13%; 
+    height: 10px; 
+    background: blue; 
+}
+
+#experience{
+    height: 300px
+    
+}
+
+#ervaring{
+    float: left;
+    margin-left: 5%;
+    width: 40%;
+}
